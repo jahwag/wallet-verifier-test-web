@@ -13,20 +13,15 @@ This project uses [Conventional Commits](https://www.conventionalcommits.org) to
 ## [Unreleased]
 
 
-<a name="v0.0.2"></a>
-## [v0.0.2] - 2025-06-13
-### Bug Fixes
-- publishimage.yml
-
-
 <a name="v0.0.1"></a>
 ## v0.0.1 - 2025-06-13
 ### Bug Fixes
-- exclude false positive gitleak ([#6](https://github.com/diggsweden/wallet-verifier-test-web/issues/6))
+- update publishimage.yml
+- publishimage.yml
+- exclude false positive gitleak ([#6](https://github.com/jahwag/wallet-verifier-test-web/issues/6))
 
 ### Features
 - add github workflows
 
 
-[Unreleased]: https://github.com/diggsweden/wallet-verifier-test-web/compare/v0.0.2...HEAD
-[v0.0.2]: https://github.com/diggsweden/wallet-verifier-test-web/compare/v0.0.1...v0.0.2
+[Unreleased]: https://github.com/jahwag/wallet-verifier-test-web/compare/v0.0.1...HEAD
